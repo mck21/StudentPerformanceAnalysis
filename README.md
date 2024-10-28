@@ -1,8 +1,14 @@
 # DataProject: Dashboard & Análisis de Datos
 
 <p align="center">
-    <img src="https://github.com/mck21/StudentPerformaceAnalysis/blob/main/img/header.png" />
+    <img src="https://github.com/mck21/StudentPerformaceAnalysis/blob/main/img/header.png" />    
 </p>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/google%20sheets-%2342B883.svg?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets">
+    <img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+</div>
+<br>
 
 Este repositorio contiene un análisis del [dataset de Kaggle](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors/data) que examina varios factores que podrían influir en el rendimiento académico de los estudiantes.<br><br>
 
@@ -17,24 +23,24 @@ El conjunto de datos muestra varios factores que podrían influir en el rendimie
 - **Student_ID (ID_Estudiante)**: Integer - Identificador único del estudiante.
 - **Hours_Studied (Horas_Estudio)**: Integer - Cantidad de horas dedicadas al estudio.
 - **Attendance (Asistencia)**: Integer - Porcentaje de asistencia a clases.
-- **Parental_Involvement (Participación_Parental)**: String - Nivel de participación de los padres en la educación del estudiante.
+- **Parental_Involvement (Implicación_Parental)**: String - Nivel de implicación de los padres en la educación del estudiante.
 - **Access_to_Resources (Acceso_a_Recursos)**: String - Grado de acceso a recursos de estudio y apoyo.
 - **Extracurricular_Activities (Actividades_Extracurriculares)**: String - Participación en actividades fuera del currículo académico.
 - **Sleep_Hours (Horas_Sueño)**: Integer - Promedio de horas de sueño diarias del estudiante.
-- **Previous_Scores (Puntajes_Anteriores)**: Integer - Puntajes obtenidos en evaluaciones previas.
+- **Previous_Scores (Puntuaciones_Anteriores)**: Integer - Puntuaciones obtenidos en evaluaciones previas.
 - **Motivation_Level (Nivel_Motivación)**: String - Nivel de motivación del estudiante.
 - **Internet_Access (Acceso_Internet)**: String - Indica si el estudiante tiene acceso a Internet.
 - **Tutoring_Sessions (Sesiones_Tutoría)**: Integer - Número de sesiones de tutoría recibidas.
 - **Family_Income (Ingresos_Familiares)**: String - Nivel de ingresos familiares.
 - **Teacher_Quality (Calidad_Profesorado)**: String - Percepción de la calidad del profesorado.
 - **School_Type (Tipo_Escuela)**: String - Tipo de institución educativa (pública o privada).
-- **Peer_Influence (Influencia_Par)**: String - Influencia de los compañeros en el rendimiento académico.
+- **Peer_Influence (Influencia_De_Compañeros)**: String - Influencia de los compañeros en el rendimiento académico.
 - **Physical_Activity (Actividad_Física)**: Integer - Cantidad de horas dedicadas a actividades físicas semanales.
 - **Learning_Disabilities (Discapacidades_Aprendizaje)**: String - Indica si el estudiante tiene alguna discapacidad de aprendizaje.
 - **Parental_Education_Level (Nivel_Educación_Parental)**: String - Nivel educativo alcanzado por los padres.
 - **Distance_from_Home (Distancia_de_Casa)**: String - Proximidad de la escuela con respecto al hogar del estudiante.
 - **Gender (Género)**: String - Género del estudiante.
-- **Exam_Score (Puntaje_Examen)**: Integer - Calificación obtenida en el examen final.
+- **Exam_Score (Puntuación_Examen)**: Integer - Calificación obtenida en el examen final.
 
 
 ### 1.2. Transformación y Limpieza
