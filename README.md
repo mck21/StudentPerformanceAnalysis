@@ -1,8 +1,11 @@
 # DataProject: Dashboard & Análisis de Datos
+
 <p align="center">
     <img src="https://github.com/mck21/StudentPerformaceAnalysis/blob/main/img/header.png" />
-  </p>
+</p>
+
 Este repositorio contiene un análisis del [dataset de Kaggle](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors/data) que examina varios factores que podrían influir en el rendimiento académico de los estudiantes.<br><br>
+
 > [!IMPORTANT]
 Aquí puedes acceder al [análisis en Google Sheets](https://docs.google.com/spreadsheets/d/1xaC4Uw8iyd0s6YDOQmCVE0gIYyCW9urNs5iH_Bp2bMw/edit?usp=sharing) (enlace con acceso para cualquier persona)
 
