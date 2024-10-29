@@ -82,6 +82,8 @@ Se ha creado un dashboard interactivo que permite filtrar los datos según géne
 ## 3. Interpretación de Resultados
 Con los resultados puestos en gráficos en el dashboard podemos ver mejor los patrones y tendencias de este conjunto de 6607 estudiantes.
  - Vemos que todas las gráficas referidas a la variable objetivo (nota del examen) tienen cierta correlación.
+    - La relación entre horas de estudio y rendimiento académico no siempre es lineal, ya que puede existir un punto de saturación donde el esfuerzo adicional, como más horas de estudio o asistencia, resulta en una mejora decreciente del rendimiento, debido a la fatiga o la pérdida de motivación.
+    - Además, factores externos, como la motivación personal y la influencia de compañeros o apoyo parental, también juegan un papel crucial, alterando la progresión lineal de las gráficas.
  - Hasta valores de la nota cerca de 77, las gráficas siguen una tendencia ascendente, mientras que por encima de este valor empiezan a verse irregularidades en la tendencia.
  - En cuanto a la media de horas estudiadas, podemos apreciar que los estudiantes con notas más altas no precisan dedicar tantas horas como los estudiantes de notas más bajas. Esto se puede deber a la calidad del estudio; no por invertir más tiempo significa que el alumno aprenda más.
  - La media de horas de sueño es ligeramente más baja de cara a los alumnos con mejor nota. Esto se puede atribuir a factores como el estrés o, en casos independientes, a las horas invertidas en el estudio.
