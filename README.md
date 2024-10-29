@@ -60,7 +60,7 @@ El conjunto de datos muestra varios factores que podrían influir en el rendimie
 - **Transformación de los datos**:
     - Se ha añadido la columna **Student_ID** dotando de un identificador único a cada alumno.
     - Dado que no es especifica si los valores de la columna **Physical_Activity** son horas/semana o dias/semana, se ha decidido categorizar los valores del 0 al 6 (máx) en: Baja, Media, Alta.
-    - Se ha añadido la columna **Score_Improvement** que representa la diferencia entre **Score_Exam** y **Previous_Scores**, adoptando valores negativos y positivos en función de si el alumno ha mejorado o empeorado su nota.
+    - Se ha añadido la columna **Score_Improvement** que representa la diferencia entre **Score_Exam** y **Previous_Scores**, adoptando valores positivos y negativos en función de si el alumno ha mejorado o empeorado su nota.
 
 ### 1.3. Patrones y Outliers
 
