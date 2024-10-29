@@ -76,7 +76,7 @@ El conjunto de datos muestra varios factores que podrían influir en el rendimie
 Se ha creado un dashboard interactivo que permite filtrar los datos según género, tipo de escuela, influencia de los compañeros y distancia a la escuela.
 
 <p align="center">
-  <img src="https://github.com/mck21/StudentPerformaceAnalysis/blob/main/img/dashboard.png" />
+  <img src="https://github.com/mck21/StudentPerformaceAnalysis/blob/main/img/dashboard2.png" />
 </p>
 
 ## 3. Interpretación de Resultados
